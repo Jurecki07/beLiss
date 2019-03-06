@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-http://thirsty-torvalds-269444.netlify.com/* http://www.belissinfo.com/:splat 301!
